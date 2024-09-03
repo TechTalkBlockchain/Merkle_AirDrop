@@ -1,4 +1,4 @@
-# Sample Hardhat Project
+# Merkle_AirDrop Readme Guide
 
 Generate a Merkle root from a list of eligible addresses, implement a Solidity contract that verifies claims against this Merkle root, and manage the airdrop process.
 git 
