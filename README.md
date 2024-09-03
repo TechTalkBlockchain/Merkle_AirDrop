@@ -35,7 +35,7 @@ This shows the Token_Address image during deployment. (check folder modules to s
 
 After Deploying deploy.js the Contract for AirDrop deploys for AirDrop Functionalities. Like claiming airDrops for generated Addresses.
 
-========================================== Interaction ===================================================================
+========================================== Interaction =========================================
 
 Interaction will be done onchain after Deploying Everything.
 
